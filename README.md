@@ -1,1 +1,3 @@
 # TowerOfHanoi
+
+Author: Peter Wainaina
